@@ -139,3 +139,35 @@ Write('Input Pendapatan Keluarga = ');
 Readln(z)
 
 Writeln;
+Writeln(' =================== ');
+Writeln;
+y:=x+(y/2)+(z/3)
+
+If y >= 1000000 then 
+Begin 
+Writeln('Kredit uang yang dapat diajukan = YAMAHA NMAX');
+End
+
+Else 
+If y > 500000 then 
+
+Begin 
+Writeln('Kredit uang yang dapat diajukan = YAMAHA MIO');
+End
+
+If y <= 500000 then 
+Begin 
+Writeln('Mohon maaf Anda tidak dapat mengajukan Kredit');
+
+End 
+
+Else 
+Begin 
+Writeln('Maaf nilai yang anda input salah');
+End;
+
+
+Writeln;
+Write('Tekan Sembarang tombol untuk mengakhiri');
+Readkey;
+End.
