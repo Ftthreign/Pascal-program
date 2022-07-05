@@ -1,3 +1,4 @@
+// Program Input nilai dalam Persamaan Matematika 
 Program Regresi;
 Uses crt;
 Var y, a, b: Integer;
@@ -17,3 +18,5 @@ Writeln;
 Writeln(' Tekan Sembarang Tombol Untuk Mengakhiri ');
 Readkey;
 End.
+
+// Program Menghitung Luas Persegi 
