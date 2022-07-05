@@ -1,6 +1,7 @@
 Program hallo; 
 Uses crt;
 Clrscr;
+TextColor(Red);
 Writeln('====================');
 Writeln('Selamat Datang');
 Writeln('Perkenalkan');
@@ -9,6 +10,7 @@ Write('Fadhil Abdul Fattah');
 Writeln('====================');
 Writeln;
 
+TextColor(Blue);
 Write('Disini saya akan');
 Writeln('Menuliskan Sebuah kode pascal');
 Writeln('Menggunakan turbo pascal');
