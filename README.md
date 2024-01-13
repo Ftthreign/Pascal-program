@@ -1,3 +1,3 @@
 # Pascal-program 
 
-Just Pascal program that i code 
+Just Pascal program for School Assignment
